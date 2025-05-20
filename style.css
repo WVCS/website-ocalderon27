@@ -1,3 +1,26 @@
 body {
 
+h3 {
+  color: #A4243B;
+  text-decoration: overline underline 5px #D8973C dashed;
+   letter-spacing: 2px;
+  word-spacing: 20px;
+  text-shadow: 2px 2px 5px teal; 
+}
+
+body {
+  background-color: #F1E9DB;
+}
+
+img:hover {
+  width: 300px;
+  border: dashed #3A0CA3;
+  border-radius: 90%;
+}
+
+h3:hover {
+  text-decoration: underline dashed #D8973C 20px;
+  font-size: 400%;
+  text-transform: uppercase;
+}
 }
